@@ -1,0 +1,9 @@
+streamlit
+transformers
+torch
+datasets
+numpy
+evaluate
+scikit-learn
+accelerate
+transformers[torch]
