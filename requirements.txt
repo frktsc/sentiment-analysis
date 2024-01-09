@@ -7,3 +7,4 @@ evaluate
 scikit-learn
 accelerate
 transformers[torch]
+setuptools
