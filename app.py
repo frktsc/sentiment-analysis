@@ -17,7 +17,6 @@ emojis = {
     'Surprise':'😲',
 }
 
-# Streamlit sayfa konfigürasyonu
 st.set_page_config(
     page_title="Sentiment Analysis",
     page_icon="🔥",
