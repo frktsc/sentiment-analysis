@@ -12,7 +12,8 @@ This project performs emotion analysis using a fine-tuned DistilBERT model on Hu
 ### Model Weights
 [The weights of the trained model are available on Google Drive. You can download it here](https://drive.google.com/drive/folders/1-jwmwj2C7HHxMbE1ZsmKpXWPJv94Anoi?usp=sharing)    
 
+## About the Author
 
-
+Hello, I'm Furkan, the creator of this project. I'm passionate about natural language processing and machine learning. This project combines my interest in NLP.  For more information about my work and other projects, feel free to visit my [LinkedIn](https://www.linkedin.com/in/furkan-tasci-85199119a/).
 
 #### [My Hugging Face Profile](https://huggingface.co/frktsc)
