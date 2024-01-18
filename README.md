@@ -28,3 +28,6 @@ The model was trained for 6 different emotions, you can see in the images.
 Hello, I'm Furkan, the creator of this project. I'm passionate about natural language processing and machine learning. This project combines my interest in NLP.  For more information about my work and other projects, feel free to visit my [LinkedIn](https://www.linkedin.com/in/furkan-tasci-85199119a/).
 
 #### [My Hugging Face Profile](https://huggingface.co/frktsc)
+
+
+#### https://frktsc-sentiment-analysis-app-hchkol.streamlit.app/
