@@ -4,7 +4,7 @@
 
 ### Project Overview
 
-This project performs emotion analysis using a fine-tuned DistilBERT model on Hugging Face's Emotion dataset. The model is trained on Kaggle and the results are stored on Google Drive.
+This project involves sentiment analysis using a fine-tuned DistilBERT model on the Hugging Face Emotion dataset. DistilBERT is a lightweight version optimized for NLP tasks, and the aim of this project is to extract emotional insights from textual data.
 
 ### Model Training
 [Details on how the model is trained can be found in the  notebook in this repo. You can download it here.](https://github.com/frktsc/sentiment-analysis/blob/main/sentiment-analysis-with-distilbert-model-training.ipynb)
